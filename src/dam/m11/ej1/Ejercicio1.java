@@ -7,7 +7,7 @@ public class Ejercicio1 {
 	/* Crea un array de 10 posiciones de números con valores pedidos por teclado.
 	 * Muestra por consola el índice y el valor al que corresponde.
 	 * Haz dos métodos, uno para rellenar valores y otro para mostrar.*/
-		
+		//Commentario
 		private static int [] arrayNumeros;
 		private static Scanner sc;
 		
